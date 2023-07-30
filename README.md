@@ -9,7 +9,7 @@ Breeze is a UX/UI design for an online store created in Figma. It offers a varie
 Breeze is a word that evokes a sense of freshness and vitality, and it's fitting that an online store would choose this name to represent its brand. The word "breeze" refers to the cool and refreshing air that passes from the sea to the land, providing relief from the heat and a sense of rejuvenation. This sense of vitality and freshness is reflected in the color palette of the Breeze store, which features shades of blue, beige, and orange. The blue hues evoke a sense of calm and tranquility, while the beige and orange tones provide warmth and energy. Together, these colors create a cohesive and inviting palette that is both pleasing to the eye and reflective of the store's brand values. Overall, the name Breeze and its associated color palette create a sense of freshness and vitality that is sure to appeal to customers looking for a positive shopping experience.
 
 ## Getting Started
-   You can open the prototype by clicking on the following link: [Breeze store]()
+   You can open the prototype by clicking on the following link: [Breeze store](https://www.figma.com/file/hxEzUHd8Hpnll6U7q52wbU/amazon-%F0%9F%8E%A8?type=design&node-id=239%3A5192&mode=design&t=eq4KMwI0RskIUTKo-1)
    
  ## Preview Images
  The following are some of the interfaces in Breeze:
