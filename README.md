@@ -47,5 +47,5 @@ Breeze is a word that evokes a sense of freshness and vitality, and it's fitting
 
 
  ## Collaborators
-   The Breeze store project was created by Muneerah Alhelelah , Shahd Altmimi , Entisar Alharbi , and Ruwayn Alharbi as part of the challenge cards for the Barmjha internship.
+   The Breeze store project was created by Muneerah Alhelelah , Shahd Altmimi , Entisar Alharbi , and @RuwaynAlharbi as part of the challenge cards for the Barmjha internship.
    
